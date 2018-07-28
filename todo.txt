@@ -1,7 +1,4 @@
-add licenses to git ignore
 Migrate iterm keys to be profile specific.
 alfred
 chrome
-steal deorio stuff
-
 refactor repo positions
