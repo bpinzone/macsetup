@@ -1,0 +1,7 @@
+Legit Dot Files
+    .bashprof
+    .vimrc
+Other Dot Files
+    .vscode
+    .VSCodeVim is empty...
+

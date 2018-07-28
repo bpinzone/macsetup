@@ -1,0 +1,98 @@
+System level. Avoid collisions.
+
+General
+    command space // spotlight
+    option  space // iTerm (defined in iTerm Preferences)
+    command [6-9|0] // manage side menus
+    
+Text Editors and Terminals
+    command []       // change indent
+    command [] shift // change tabs
+
+    command d       // split pane right
+    command d shift // split pane down
+
+    command option []       // code fold single
+    command option shift [] // code fold all
+
+    command shift j|k|h|l   // navigate split panes 
+    
+Magnet
+    command option j|k|u|i|arrow // resize windows
+
+BetterTouchTools
+    fn f12 // Center cursor on screen
+    fn f1  // Show menu bar in context menu. Shows menu bar like a right click. Great for large displays.
+    fn f8  // sleep computer
+
+Bartender
+    fn f11 // search menu bar items
+    fn f10 // show bartender items
+
+System Preferences
+    Mission Control
+        command option control w // toggle do not disturn
+        command 1 // move left space
+        command 2 // move right space
+        command 3 // show desktop
+        command 4 // application windows
+    Keyboard
+        command ` // move focus to next window
+    Input Sources
+        command option control space // Select next source in input menu (greek)
+    Screen Shots
+        command shift 4 // Save picture of selected area as file.
+    Services
+        Development
+            command option control o // Compare files
+        Files and Folders
+            command t // New iTerm2 window here
+            command r // reveal in finder
+        General
+            command option control m // launch std applications
+            command option control t // new text document
+    Spotlight
+        command space // show spotlight search
+    Accessibility
+        command option control 8 // invert colors
+    App Shortcuts
+        All
+            command shift / // show help menu
+        iStudiez Pro
+            command b // create data backup
+        Evernote
+            command r // manual sync
+        Safari
+            command shift ] // show next tab
+            command shift [ // shor previous tab
+        Finder
+            command shift [ // enclosing folder
+            command l // as list. (Terminal bug)
+            command d // downloads
+        Preview
+            command option control c // continuous scroll
+            command option control s // single page
+            command n // new note
+            command t // new textbox
+        Xcode
+            command option ] // unfold
+            command option [ // fold
+            command 0 // show/hide utilities
+            command 9 // show/hide navigator
+            command shift 9 // show project navigator
+            command option control f // show in finder
+            command o // open quickly
+        Audacity
+            command = // zoom in
+            command - // zoom out
+        Notes
+            command 9 // show/hide folders
+            command = // zoom in
+            command - // zoom out
+            command l // close all locked notes
+        Kindle
+            command l // location 
+    
+
+    
+

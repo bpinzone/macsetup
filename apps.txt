@@ -1,0 +1,76 @@
+Menu Bar Apps
+	Bartender 3
+	iStat Menus
+	Magnet
+	Better Touch Tools
+	f.lux
+
+Login Items
+	Magnet
+	f.lux
+	iTunesHelper
+	Dropbox
+	Onedrive
+	com.alexziel...
+	BetterTouchTools
+	Bartender 3
+	iStat Menus
+	
+Dev
+	iTerm2
+	Visual Studio Code
+	xCode
+	Unity
+	SourceTree
+	PyCharm
+	IntelliJ
+	com.alexzielenski.mousecloakhelper.app (MouseScape, xcode thicker cursor)
+	CodeRunner
+	
+Communication
+	Messages
+	Discord
+	Slack
+	WhatsApp
+	Mail
+
+Notes/Todo
+	Evernote
+	Notes
+	Onenote
+	Wunderlist
+	iStudiez
+	Calendar
+	Reminders
+
+Productivity
+	Dropbox
+	Google Drive
+	OneDrive
+	Chrome/Firefox
+	Word/Excel/PPT
+	TeamViewer
+	Automator
+
+Utilities
+	Disk Inventory X
+	Logitech Unifying Software
+	The Unarchiver
+	
+Other Creativity
+	AudioXplorer FFT
+	SimpleMind
+	Audacity
+	FlySketch
+	Garage Band
+	PaintBrush
+
+Other
+	Debit & Credit
+
+Entertainment
+	Spotify
+	Steam
+	Dolphin
+	Kindle
+	VLC

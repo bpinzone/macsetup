@@ -1,0 +1,52 @@
+{
+    // Hot Toggle
+    "editor.wordBasedSuggestions": false,
+    //End hot toggle.
+
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "k"],
+            "after": ["<esc>"]
+        }
+    ],
+    "vim.foldfix": true,
+    "vim.statusBarColorControl": true,
+    // "vim.statusBarColors": {
+    //     "normal": ["#AE0000", "#AE0000"],
+    //     "insert": "#AE0000",
+    //     "visual": "#AE0000",
+    //     "visualline": "#AE0000",
+    //     "visualblock": "#AE0000",
+    //     "replace": "#AE0000"
+    // },
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": true,
+    "window.zoomLevel": 0,
+    "editor.foldingStrategy": "indentation",
+    "csharp.referencesCodeLens.enabled": false,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.minimap.enabled": false,
+    "materialTheme.fixIconsRunning": false,
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#64FFDA",
+        "list.activeSelectionForeground": "#64FFDA",
+        "list.inactiveSelectionForeground": "#64FFDA",
+        "list.highlightForeground": "#64FFDA",
+        "scrollbarSlider.activeBackground": "#64FFDA50",
+        "editorSuggestWidget.highlightForeground": "#64FFDA",
+        "textLink.foreground": "#64FFDA",
+        "progressBar.background": "#64FFDA",
+        "pickerGroup.foreground": "#64FFDA",
+        "tab.activeBorder": "#64FFDA",
+        "notificationLink.foreground": "#64FFDA",
+        "editorWidget.resizeBorder": "#64FFDA",
+        "editorWidget.border": "#64FFDA",
+        "settings.modifiedItemForeground": "#64FFDA",
+        "panelTitle.activeBorder": "#64FFDA"
+    },
+    "materialTheme.accentPrevious": "",
+    "materialTheme.accent": "Bright Teal",
+}
+
+

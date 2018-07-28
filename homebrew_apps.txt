@@ -1,0 +1,6 @@
+tldr
+fzf
+git
+python
+tree
+wget
