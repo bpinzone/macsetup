@@ -35,7 +35,7 @@ System Preferences
         command 1 // move left space
         command 2 // move right space
         command 3 // show desktop
-        command 4 // application windows
+        command 5 // application windows (4 conflicts screenshot)
     Keyboard
         command ` // move focus to next window
     Input Sources
