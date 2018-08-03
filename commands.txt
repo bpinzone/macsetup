@@ -1,0 +1,7 @@
+grep
+awk // line by line output programming
+tldr
+find
+seq // find a sequence of numbers. Useful for bash for loops with variables.
+whereis // search for program binaries
+

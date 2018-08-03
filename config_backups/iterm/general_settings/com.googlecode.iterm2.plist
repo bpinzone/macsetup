@@ -684,7 +684,7 @@
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Documents</string>
+	<string>~/Documents/@MAIN_DOCUMENTS/@REPOS/MyComputer/macsetup/config_backups/iterm/general_settings</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -728,9 +728,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 76 606 469 0 0 1280 778 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>130 283 796 473 0 0 1280 778 </string>
+	<string>130 304 796 473 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 0 650 778 0 0 1280 778 </string>
+	<string>131 73 730 597 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>0 4 1280 774 0 0 1280 778 </string>
 	<key>NeverWarnAboutShortLivedSessions_F0950D28-349D-4B79-B45A-F65344510C77</key>
@@ -952,7 +952,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>80</integer>
+			<integer>90</integer>
 			<key>Command</key>
 			<string></string>
 			<key>Cursor Color</key>
@@ -1335,7 +1335,7 @@
 			<key>Right Option Key Sends</key>
 			<integer>0</integer>
 			<key>Rows</key>
-			<integer>100</integer>
+			<integer>30</integer>
 			<key>Screen</key>
 			<integer>0</integer>
 			<key>Scrollback Lines</key>
@@ -1404,7 +1404,7 @@
 			<key>Visual Bell</key>
 			<true/>
 			<key>Window Type</key>
-			<integer>6</integer>
+			<integer>0</integer>
 			<key>Working Directory</key>
 			<string>/Users/BenPinzone</string>
 		</dict>
@@ -1477,7 +1477,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/BenPinzone/.ben-mac-setup/config_backups/iterm/general_settings</string>
+	<string>/Users/BenPinzone/Documents/@MAIN_DOCUMENTS/@REPOS/MyComputer/macsetup/config_backups/iterm/general_settings</string>
 	<key>Print In Black And White</key>
 	<true/>
 	<key>ProfilesWindowJoinsActiveSpace</key>
@@ -1493,7 +1493,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-07-28T02:51:30Z</date>
+	<date>2018-08-02T04:17:33Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUSkippedVersion</key>
@@ -1501,7 +1501,7 @@
 	<key>ShowFullScreenTabBar</key>
 	<true/>
 	<key>SmartPlacement</key>
-	<true/>
+	<false/>
 	<key>SplitPaneDimmingAmount</key>
 	<real>0.34437850560897437</real>
 	<key>SwitchPaneModifier</key>
