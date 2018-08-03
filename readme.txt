@@ -1,1 +1,1 @@
-Licenes not included.
+Licenses not included.

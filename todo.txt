@@ -2,3 +2,5 @@ Migrate iterm keys to be profile specific.
 alfred
 chrome
 refactor repo positions
+include git ignore global dot file
+experiment with hard links

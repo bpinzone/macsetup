@@ -46,7 +46,7 @@ System Preferences
         Development
             command option control o // Compare files
         Files and Folders
-            command t // New iTerm2 window here
+            command option control t // New iTerm2 window here
             command r // reveal in finder
         General
             command option control m // launch std applications
