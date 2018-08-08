@@ -16,6 +16,16 @@ Text Editors and Terminals
     command option shift [] // code fold all
 
     command shift j|k|h|l   // navigate split panes 
+
+    command shift o //go to defintion
+
+VS Code
+    command option control b CORD TO t // toggle bookmark
+    command option control b CORD TO l // list bookmarks
+    Reminders
+        command k CORD TO enter //keep editor 
+        For call hierarchy features to work, etc, need to open up workspace not just folder.
+    
     
 Magnet
     command option j|k|u|i|arrow // resize windows

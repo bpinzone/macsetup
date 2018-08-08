@@ -7,6 +7,10 @@ experiment with hard links
 get anaconda off
 shortcuts for opening vim cheatsheat and regex reference
 	convert vim cheatsheet to searchable file.
+are bash aliases without args not a thing?
+bremercamp color message
+	learn how it actually works
+	I don't like his thing. Just figure this out. 
 
 Eventually
 convert pinzone_wp to text file and grep or use fzf
@@ -15,3 +19,6 @@ organize bookmarks again...
 alfred?
 chrome? + surfing vim
 full vim?...heh. 
+get 485 projects on git
+
+want $ csgrep -e "blah" -e "blah2" to work
