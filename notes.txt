@@ -22,3 +22,5 @@ full vim?...heh.
 get 485 projects on git
 
 want $ csgrep -e "blah" -e "blah2" to work
+zsh?
+get rid of useless positional arguments in bash aliases
