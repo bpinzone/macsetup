@@ -4,4 +4,5 @@ tldr
 find
 seq // find a sequence of numbers. Useful for bash for loops with variables.
 whereis // search for program binaries
+tr // replace characters. clean output.
 

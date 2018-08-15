@@ -1,26 +1,22 @@
 Soon
-look over bash profile
 include git ignore global dot file
 include ssh config in dot file repo???
 experiment with hard links
 	see if downloading from git and editing changes mine...
 get anaconda off
-shortcuts for opening vim cheatsheat and regex reference
-	convert vim cheatsheet to searchable file.
+shortcut for regex refernces
+make pro programming reference repo?
 are bash aliases without args not a thing?
-bremercamp color message
-	learn how it actually works
-	I don't like his thing. Just figure this out. 
 
 Eventually
-convert pinzone_wp to text file and grep or use fzf
 Migrate iterm keys to be profile specific.
 organize bookmarks again...
 alfred?
 chrome? + surfing vim
-full vim?...heh. 
+full vim
 get 485 projects on git
 
 want $ csgrep -e "blah" -e "blah2" to work
 zsh?
 get rid of useless positional arguments in bash aliases
+	but are they actually useless? dig further

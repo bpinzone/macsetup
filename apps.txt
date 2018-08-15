@@ -4,6 +4,8 @@ Menu Bar Apps
 	Magnet
 	Better Touch Tools
 	f.lux
+	earsafe
+	bitbar
 
 Login Items
 	Magnet
@@ -15,6 +17,8 @@ Login Items
 	BetterTouchTools
 	Bartender 3
 	iStat Menus
+	earsafe
+	bitbar
 	
 Dev
 	iTerm2
