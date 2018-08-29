@@ -1,9 +1,7 @@
 Soon
+standardize command conventions in bash profile for viewing/editting/grepping files.
 include git ignore global dot file
 include ssh config in dot file repo???
-experiment with hard links
-	see if downloading from git and editing changes mine...
-get anaconda off
 shortcut for regex refernces
 make pro programming reference repo?
 are bash aliases without args not a thing?
@@ -12,7 +10,6 @@ Eventually
 Migrate iterm keys to be profile specific.
 organize bookmarks again...
 alfred?
-chrome? + surfing vim
 full vim
 get 485 projects on git
 
