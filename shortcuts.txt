@@ -4,7 +4,7 @@ General
     command space // spotlight
     option  space // iTerm (defined in iTerm Preferences)
     command [6-9|0] // manage side menus
-    
+
 Text Editors and Terminals
     command []       // change indent
     command [] shift // change tabs
@@ -12,28 +12,41 @@ Text Editors and Terminals
     command d       // split pane right
     command d shift // split pane down
 
-    command option []       // code fold single
-    command option shift [] // code fold all
+    command option [ OR ]       // code fold single
+    command option shift [ OR ] // code fold all
 
-    command shift j|k|h|l   // navigate split panes 
+    command shift j|k|h|l   // navigate split panes
 
-    command shift o //go to defintion
+    command shift o // go to defintion
+
+    option o // toggle between header and cpp in vscode
+    command o // find symbol
+
+    command control <arrow key> // resize split pane.
 
 VS Code
     command option control b CORD TO t // toggle bookmark
     command option control b CORD TO l // list bookmarks
+    command y // show debug window
+    command shift y // show debug console
+    command shift r // start debugging
     Reminders
-        command k CORD TO enter //keep editor 
+        command k CORD TO enter //keep editor
         For call hierarchy features to work, etc, need to open up workspace not just folder.
-    
-    
+
+    command e // focus editor
+    command t // focus terminal
+    command shift t // toggle terminal
+
+
 Magnet
     command option j|k|u|i|arrow // resize windows
 
 BetterTouchTools
-    fn f12 // Center cursor on screen
-    fn f1  // Show menu bar in context menu. Shows menu bar like a right click. Great for large displays.
+    fn f1  // Open iTerm
+    fn f2  // Show menu bar in context menu. Shows menu bar like a right click. Great for large displays.
     fn f8  // sleep computer
+    fn f12 // Center cursor on screen
 
 Bartender
     fn f11 // search menu bar items
@@ -41,13 +54,14 @@ Bartender
 
 System Preferences
     Mission Control
-        command option control w // toggle do not disturn
+        command option control w // toggle do not disturb
         command 1 // move left space
         command 2 // move right space
         command 3 // show desktop
         command 5 // application windows (4 conflicts screenshot)
     Keyboard
         command ` // move focus to next window
+        f7 // move focus to menu bar. (Shows it when you have it hidden by default.)
     Input Sources
         command option control space // Select next source in input menu (greek)
     Screen Shots
@@ -83,7 +97,9 @@ System Preferences
             command option control c // continuous scroll
             command option control s // single page
             command n // new note
-            command t // new textbox
+            command t // new text box
+            command j // scroll down
+            command k // scroll up
         Xcode
             command option ] // unfold
             command option [ // fold
@@ -101,8 +117,8 @@ System Preferences
             command - // zoom out
             command l // close all locked notes
         Kindle
-            command l // location 
-    
+            command l // location
 
-    
+
+
 
