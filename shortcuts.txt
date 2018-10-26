@@ -2,8 +2,11 @@ System level. Avoid collisions.
 
 General
     command space // spotlight
+    command space shift // siri
     option  space // iTerm (defined in iTerm Preferences)
-    command [6-9|0] // manage side menus
+    fn fn // dictation
+    command [6-9|0] // manage side menus in applications
+    command shift / // show help menu
 
 Text Editors and Terminals
     command []       // change indent
@@ -82,6 +85,8 @@ System Preferences
     App Shortcuts
         All
             command shift / // show help menu
+        Activity Monitor
+            command f // filter processes.
         iStudiez Pro
             command b // create data backup
         Evernote
@@ -91,7 +96,8 @@ System Preferences
             command shift [ // shor previous tab
         Finder
             command shift [ // enclosing folder
-            command l // as list. (Terminal bug)
+            command l // as list.
+            command option control g // new iTerm tab at selected folder. (finally bug is gone from list mode!!! :)
             command d // downloads
         Preview
             command option control c // continuous scroll
@@ -100,6 +106,7 @@ System Preferences
             command t // new text box
             command j // scroll down
             command k // scroll up
+            command i // show/hide toolbar.
         Xcode
             command option ] // unfold
             command option [ // fold
