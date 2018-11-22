@@ -1,6 +1,8 @@
 System level. Avoid collisions.
 
 General
+    command \ // app switcher and invert display colors.
+    command shift \ // invert colors.
     command space // spotlight
     command space shift // siri
     option  space // iTerm (defined in iTerm Preferences)
@@ -20,12 +22,14 @@ Text Editors and Terminals
 
     command shift j|k|h|l   // navigate split panes
 
-    command shift o // go to defintion
+    command shift o // go to definition
 
     option o // toggle between header and cpp in vscode
     command o // find symbol
 
     command control <arrow key> // resize split pane.
+
+    iTerm: command enter // toggle non-native full-screen.
 
 VS Code
     command option control b CORD TO t // toggle bookmark
