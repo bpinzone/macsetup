@@ -22,16 +22,20 @@ Text Editors and Terminals
 
     command shift j|k|h|l   // navigate split panes
 
-    command shift o // go to definition
-
-    option o // toggle between header and cpp in vscode
-    command o // find symbol
-
     command control <arrow key> // resize split pane.
 
     iTerm: command enter // toggle non-native full-screen.
 
 VS Code
+
+    command p // open file
+    command o  // find symbol
+
+    command shift p // search for command
+    command shift o // go to symbol definition.
+
+    option o // toggle between header and source.
+
     command option control b CORD TO t // toggle bookmark
     command option control b CORD TO l // list bookmarks
     command y // show debug window
