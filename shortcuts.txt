@@ -55,9 +55,16 @@ Magnet
 
 BetterTouchTools
     fn f1  // Open iTerm
-    fn f2  // Show menu bar in context menu. Shows menu bar like a right click. Great for large displays.
+    fn f2  // launch Unity Hub
+    fn f3  // Show menu bar in context menu. Shows menu bar like a right click. Great for large displays.
     fn f8  // sleep computer
     fn f12 // Center cursor on screen
+    command \ // app switcher + invert colors.
+    4 finger click // app switcher
+    5 finger click // show menubar in context menu
+    5 finger tap // f10 (bartender items)
+    TipTap Left (2 Finger Fix) -> command w
+    Mouse Fwd Button // show menubar in context menu
 
 Bartender
     fn f11 // search menu bar items
@@ -97,6 +104,10 @@ System Preferences
             command f // filter processes.
         iStudiez Pro
             command b // create data backup
+            command r // sync
+            command a // assignments
+            command p // planner
+            command o // overview
         Evernote
             command r // manual sync
         Safari

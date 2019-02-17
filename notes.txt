@@ -1,7 +1,7 @@
 Soon
 add to windnow manager
 	istudiez, whatsapp,
-standardize command conventions in bash profile for viewing/editting/grepping files.
+**standardize command conventions in bash profile for viewing/editting/grepping files.
 include git ignore global dot file
 include ssh config in dot file repo???
 shortcut for regex refernces
@@ -11,9 +11,7 @@ are bash aliases without args not a thing?
 Eventually
 Migrate iterm keys to be profile specific.
 organize bookmarks again...
-alfred?
 full vim
-get 485 projects on git
 
 want $ csgrep -e "blah" -e "blah2" to work
 zsh?
