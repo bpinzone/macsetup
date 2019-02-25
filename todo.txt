@@ -1,4 +1,5 @@
 General
+put git config into dotfiles repo
 add to windnow manager
 	istudiez, whatsapp,
 dot files

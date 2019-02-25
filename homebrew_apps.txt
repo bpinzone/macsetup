@@ -4,3 +4,4 @@ git
 python
 tree
 wget
+diff-so-fancy
