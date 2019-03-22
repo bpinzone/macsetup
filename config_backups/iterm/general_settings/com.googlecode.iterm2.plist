@@ -728,11 +728,11 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>650 498 620 392 0 0 1920 1057 </string>
+	<string>330 288 620 392 0 0 1280 777 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 81 606 469 0 0 1280 777 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>337 291 796 486 0 0 1280 777 </string>
+	<string>216 206 796 486 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1280 777 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
@@ -784,39 +784,55 @@
 			</dict>
 			<key>Ansi 10 Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.19607843137254902</real>
+				<real>0.093170166015625</real>
+				<key>Color Space</key>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.20392156862745098</real>
+				<real>1</real>
 				<key>Red Component</key>
-				<real>0.22745098039215686</real>
+				<real>0.0</real>
 			</dict>
 			<key>Ansi 11 Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.2627450980392157</real>
+				<real>0.0</real>
+				<key>Color Space</key>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.27058823529411763</real>
+				<real>0.623565673828125</real>
 				<key>Red Component</key>
-				<real>0.29019607843137257</real>
+				<real>1</real>
 			</dict>
 			<key>Ansi 12 Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.48627450980392156</real>
+				<real>1</real>
+				<key>Color Space</key>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.49019607843137253</real>
+				<real>0.4362763171775349</real>
 				<key>Red Component</key>
-				<real>0.50196078431372548</real>
+				<real>0.4020233154296875</real>
 			</dict>
 			<key>Ansi 13 Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.83137254901960789</real>
+				<real>0.963592529296875</real>
+				<key>Color Space</key>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.83529411764705885</real>
+				<real>0.11042144615203142</real>
 				<key>Red Component</key>
-				<real>0.83921568627450982</real>
+				<real>0.64073726101696593</real>
 			</dict>
 			<key>Ansi 14 Color</key>
 			<dict>
@@ -847,12 +863,16 @@
 			</dict>
 			<key>Ansi 3 Color</key>
 			<dict>
+				<key>Alpha Component</key>
+				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.0078431372549019607</real>
+				<real>0.0</real>
+				<key>Color Space</key>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.92941176470588238</real>
+				<real>0.6640240701399307</real>
 				<key>Red Component</key>
-				<real>0.99215686274509807</real>
+				<real>0.9945034384727478</real>
 			</dict>
 			<key>Ansi 4 Color</key>
 			<dict>
@@ -872,13 +892,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.313079833984375</real>
+				<real>1</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.55828568059951067</real>
+				<real>0.4309844970703125</real>
 				<key>Red Component</key>
-				<real>1</real>
+				<real>0.89912688222003068</real>
 			</dict>
 			<key>Ansi 6 Color</key>
 			<dict>
@@ -1513,13 +1533,13 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-12-08T19:17:26Z</date>
+	<date>2019-03-19T13:23:03Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
-	<true/>
+	<false/>
 	<key>SmartPlacement</key>
 	<false/>
 	<key>SplitPaneDimmingAmount</key>
@@ -1543,7 +1563,7 @@
 	<key>findMode_iTerm</key>
 	<integer>0</integer>
 	<key>iTerm Version</key>
-	<string>3.2.6</string>
+	<string>3.2.7</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>

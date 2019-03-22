@@ -1,28 +1,34 @@
 System level. Avoid collisions.
 
 General
-    command \ // app switcher and invert display colors.
-    command shift \ // invert colors.
     command space // spotlight
-    command space shift // siri
     option  space // iTerm (defined in iTerm Preferences)
+    command space shift // siri
+
+    command \ // alternate app switcher
+    command shift \ // invert colors.
+
     fn fn // dictation
+
     command [6-9|0] // manage side menus in applications
     command shift / // show help menu
+
+    shift esc // escape search and suggestion menus.
 
 Text Editors and Terminals
     command []       // change indent
     command [] shift // change tabs
 
-    command d       // split pane right
-    command d shift // split pane down
+    Split Panes
+        command d       // split pane right
+        command d shift // split pane down
+
+        command shift j|k|h|l   // navigate split panes
+
+        command control <arrow key> // resize split pane.
 
     command option [ OR ]       // code fold single
     command option shift [ OR ] // code fold all
-
-    command shift j|k|h|l   // navigate split panes
-
-    command control <arrow key> // resize split pane.
 
     iTerm: command enter // toggle non-native full-screen.
 
@@ -48,7 +54,6 @@ VS Code
     command e // focus editor
     command t // focus terminal
     command shift t // toggle terminal
-
 
 Magnet
     command option j|k|u|i|arrow // resize windows

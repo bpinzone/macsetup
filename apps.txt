@@ -6,6 +6,10 @@ Menu Bar Apps
 	f.lux
 	earsafe
 	bitbar
+	Momentum
+	Recess
+	tooth fairy (manage BT headphones)
+	control plane (manage bluetooth with laptop lid)
 
 Login Items
 	Magnet
@@ -19,18 +23,23 @@ Login Items
 	iStat Menus
 	earsafe
 	bitbar
-	
+	Momentum
+	Recess
+	tooth fairy
+	control plane
+
 Dev
 	iTerm2
 	Visual Studio Code
 	xCode
 	Unity
+    Blender
 	SourceTree
 	PyCharm
 	IntelliJ
 	com.alexzielenski.mousecloakhelper.app (MouseScape, xcode thicker cursor)
 	CodeRunner
-	
+
 Communication
 	Messages
 	Discord
@@ -60,7 +69,7 @@ Utilities
 	Disk Inventory X
 	Logitech Unifying Software
 	The Unarchiver
-	
+
 Other Creativity
 	AudioXplorer FFT
 	SimpleMind
