@@ -1,4 +1,14 @@
+Bash profile
+	split segments into different files
+File watching
+	put command at end of bash profile. ./Starter.sh
+	Fix file wathcing scripts to be absolute paths.
+	fix everything about them
+	eventually make it into service on startup so you dont need bash profile
+	also there could have been internal errors I wasn't seeing, like the path stuff
+
 General
+learn vscode multi cursor + vim
 put git config into dotfiles repo
 add to windnow manager
 	istudiez, whatsapp,

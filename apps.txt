@@ -7,9 +7,7 @@ Menu Bar Apps
 	earsafe
 	bitbar
 	Momentum
-	Recess
 	tooth fairy (manage BT headphones)
-	control plane (manage bluetooth with laptop lid)
 
 Login Items
 	Magnet
@@ -24,9 +22,7 @@ Login Items
 	earsafe
 	bitbar
 	Momentum
-	Recess
 	tooth fairy
-	control plane
 
 Dev
 	iTerm2
