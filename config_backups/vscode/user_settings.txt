@@ -1,8 +1,77 @@
 {
-    // Hot Toggle
-    "editor.wordBasedSuggestions": false,
-    //End hot toggle.
 
+    "markdown-pdf.margin.bottom": "0.5cm",
+    "markdown-pdf.margin.top": "0.5cm",
+    "markdown-pdf.margin.right": "0.5cm",
+    "markdown-pdf.margin.left": "0.5cm",
+
+    // Debugging
+    "terminal.external.osxExec": "iTerm.app",
+
+    "bracketPairColorizer.showVerticalScopeLine" :false,
+
+    "multiCommand.commands": [
+        {
+            "command": "multiCommand.ReloadWithIndent",
+            "sequence": [
+                "workbench.action.reloadWindow",
+                "editor.action.detectIndentationFromContext"
+            ]
+        }
+    ],
+
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "highlightLine.borderColor": "#6B1A1A",
+    "todohighlight.keywords": [
+        {
+            "text": "TODO",
+            "color": "white",
+            "backgroundColor": "#6B1A1A"
+        },
+        {
+            "text": "LOOK",
+            "color": "white",
+            "backgroundColor": "#6B1A1A"
+        },
+        {
+            "text": "NOTE",
+            "color": "white",
+            "backgroundColor": "#6B1A1A"
+        },
+        {
+            "text": "IMPORTANT",
+            "color": "white",
+            "backgroundColor": "#6B1A1A"
+        },
+        {
+            "text": "critical",
+            "color": "white",
+            "backgroundColor": "#6B1A1A"
+        },
+        {
+            "text": "CRITICAL",
+            "color": "white",
+            "backgroundColor": "#6B1A1A"
+        },
+        {
+            "text": "complete this procedure",
+            "color": "white",
+            "backgroundColor": "#6B1A1A"
+        },
+        {
+            "text": "replace with your code",
+            "color": "white",
+            "backgroundColor": "#6B1A1A"
+        },
+        {
+            "text": "todo",
+            "color": "white",
+            "backgroundColor": "#6B1A1A"
+        }
+    ],
+
+    "find.all.references.engine": "ag",
     "vim.insertModeKeyBindings": [
         {
             "before": ["j", "k"],
@@ -10,21 +79,30 @@
         }
     ],
     "vim.foldfix": true,
+    "vim.scroll": 7,
+    "editor.smoothScrolling": true,
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<C-u>"],
+            "after": ["2", "0", "k"]
+        },
+        {
+            "before": ["<C-d>"],
+            "after": ["2", "0", "j"]
+        },
+        {
+            "before": ["Z", "Z"],
+            "commands": [
+                "editor.action.detectIndentation"
+            ]
+        }
+    ],
     "vim.statusBarColorControl": true,
-    // "vim.statusBarColors": {
-    //     "normal": ["#AE0000", "#AE0000"],
-    //     "insert": "#AE0000",
-    //     "visual": "#AE0000",
-    //     "visualline": "#AE0000",
-    //     "visualblock": "#AE0000",
-    //     "replace": "#AE0000"
-    // },
     "workbench.activityBar.visible": false,
-    "workbench.statusBar.visible": true,
-    "window.zoomLevel": 0,
+    "workbench.statusBar.visible": false,
+    "window.zoomLevel": 1,
     "editor.foldingStrategy": "indentation",
     "csharp.referencesCodeLens.enabled": false,
-    "workbench.colorTheme": "Monokai Dimmed",
     "editor.minimap.enabled": false,
     "materialTheme.fixIconsRunning": false,
     "workbench.iconTheme": "eq-material-theme-icons-ocean",
@@ -43,10 +121,38 @@
         "editorWidget.resizeBorder": "#64FFDA",
         "editorWidget.border": "#64FFDA",
         "settings.modifiedItemForeground": "#64FFDA",
-        "panelTitle.activeBorder": "#64FFDA"
+        "panelTitle.activeBorder": "#64FFDA",
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f"
     },
     "materialTheme.accentPrevious": "",
     "materialTheme.accent": "Bright Teal",
+    "materialTheme.autoApplyIcons": false,
+    "cSpell.userWords": [
+        "Clinc",
+        "EECS",
+        "ICRL",
+        "Pinzone",
+        "curr",
+        "funcs",
+        "makefiles",
+        "ptes",
+        "tcbs",
+        "unevaled"
+    ],
+    "workbench.startupEditor": "newUntitledFile",
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.detectIndentation": false,
+    "workbench.sideBar.location": "left",
+    "breadcrumbs.enabled": false,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "csharp.format.enable": false,
+    "explorer.autoReveal": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "enableTelemetry": false,
 }
-
 

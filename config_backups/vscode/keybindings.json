@@ -1,3 +1,4 @@
+// Place your key bindings in this file to overwrite the defaults
 [
     {
         "key": "cmd+\\",
@@ -159,11 +160,6 @@
         "when": "breakpointsFocused"
     },
     {
-        "key": "cmd+enter",
-        "command": "list.select",
-        "when": "listFocus && !inputFocus"
-    },
-    {
         "key": "cmd+down",
         "command": "-list.select",
         "when": "listFocus && !inputFocus"
@@ -209,5 +205,201 @@
     {
         "key": "shift+cmd+o",
         "command": "-workbench.action.gotoSymbol"
+    },
+    {
+        "key": "cmd+enter",
+        "command": "git.openFile"
+    },
+    {
+        "key": "cmd+enter",
+        "command": "renameFile",
+        "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+    },
+    {
+        "key": "enter",
+        "command": "-renameFile",
+        "when": "explorerViewletVisible && filesExplorerFocus && !explorerResourceIsRoot && !explorerResourceReadonly && !inputFocus"
+    },
+    {
+        "key": "shift+enter",
+        "command": "-settings.action.focusPreviousSetting",
+        "when": "inSettingsSearch"
+    },
+    {
+        "key": "cmd+0",
+        "command": "-workbench.action.focusSideBar"
+    },
+    {
+        "key": "ctrl+alt+cmd+b t",
+        "command": "bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+cmd+k",
+        "command": "-bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+cmd+b l",
+        "command": "bookmarks.list"
+    },
+    {
+        "key": "shift+cmd+o",
+        "command": "editor.action.goToDeclaration",
+        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+    },
+    {
+        "key": "f12",
+        "command": "-editor.action.goToDeclaration",
+        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+    },
+    {
+        "key": "cmd+y",
+        "command": "workbench.view.debug"
+    },
+    {
+        "key": "shift+cmd+r",
+        "command": "workbench.action.debug.start",
+        "when": "!inDebugMode"
+    },
+    {
+        "key": "f5",
+        "command": "-workbench.action.debug.start",
+        "when": "!inDebugMode"
+    },
+    {
+        "key": "cmd+k b",
+        "command": "editor.debug.action.toggleBreakpoint",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "f9",
+        "command": "-editor.debug.action.toggleBreakpoint",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "cmd+e",
+        "command": "workbench.action.focusLastEditorGroup"
+    },
+    {
+        "key": "shift+cmd+y",
+        "command": "workbench.debug.action.toggleRepl"
+    },
+    {
+        "key": "shift+cmd+y",
+        "command": "-workbench.debug.action.toggleRepl"
+    },
+    {
+        "key": "cmd+t",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "cmd+t",
+        "command": "-workbench.action.showAllSymbols"
+    },
+    {
+        "key": "cmd+k cmd+enter",
+        "command": "workbench.action.keepEditor"
+    },
+    {
+        "key": "cmd+k enter",
+        "command": "-workbench.action.keepEditor"
+    },
+    {
+        "key": "cmd+k c",
+        "command": "-workbench.files.action.compareWithClipboard"
+    },
+    {
+        "key": "ctrl+cmd+left",
+        "command": "workbench.action.decreaseViewSize"
+    },
+    {
+        "key": "ctrl+cmd+right",
+        "command": "workbench.action.increaseViewSize"
+    },
+    {
+        "key": "cmd+,",
+        "command": "workbench.action.openSettingsJson"
+    },
+    {
+        "key": "cmd+k cmd+s",
+        "command": "workbench.action.openGlobalKeybindings"
+    },
+    {
+        "key": "cmd+k cmd+s",
+        "command": "-workbench.action.openGlobalKeybindings"
+    },
+    {
+        "key": "shift+cmd+,",
+        "command": "workbench.action.openSettings"
+    },
+    {
+        "key": "cmd+,",
+        "command": "-workbench.action.openSettings"
+    },
+    {
+        "key": "shift+cmd+,",
+        "command": "-editor.action.inPlaceReplace.up",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "cmd+k",
+        "command": "workbench.action.terminal.clear",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "cmd+k",
+        "command": "-workbench.action.terminal.clear",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "f7",
+        "command": "-editor.action.diffReview.next",
+        "when": "isInDiffEditor"
+    },
+    {
+        "key": "f7",
+        "command": "-editor.action.wordHighlight.next",
+        "when": "editorTextFocus && hasWordHighlights"
+    },
+    {
+        "key": "cmd+\\",
+        "command": "-workbench.action.terminal.split",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "cmd+d",
+        "command": "workbench.action.terminal.split",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+shift+5",
+        "command": "-workbench.action.terminal.split",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "alt+cmd+right",
+        "command": "-workbench.action.terminal.focusNextPane",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+alt+cmd+down",
+        "command": "editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+cmd+down",
+        "command": "-editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+cmd+up",
+        "command": "editor.action.insertCursorAbove",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+cmd+up",
+        "command": "-editor.action.insertCursorAbove",
+        "when": "editorTextFocus"
     }
 ]
