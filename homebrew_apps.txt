@@ -6,3 +6,4 @@ tree
 wget
 diff-so-fancy
 pbcopy ?
+markdown htmldoc

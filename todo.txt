@@ -1,5 +1,5 @@
 Bash profile
-	split segments into different files
+	modularize
 File watching
 	put command at end of bash profile. ./Starter.sh
 	Fix file wathcing scripts to be absolute paths.

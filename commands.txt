@@ -8,3 +8,4 @@ tr // replace characters. clean output.
 eval // View output of subshell without storing int variable.
 pbcopy // place std out in clipboard.
 sort -V // sort by numbers, not alphabetically
+wc -l // count lines

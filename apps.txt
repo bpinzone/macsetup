@@ -6,7 +6,7 @@ Menu Bar Apps
 	f.lux
 	earsafe
 	bitbar
-	Momentum
+	# Momentum
 	tooth fairy (manage BT headphones)
 
 Login Items
@@ -23,6 +23,7 @@ Login Items
 	bitbar
 	Momentum
 	tooth fairy
+    native brightness f16 f17
 
 Dev
 	iTerm2
