@@ -76,6 +76,14 @@ BetterTouchTools
     f15 // launch wunderlist
     f19 // remap to f10
 
+    control f13 // create new file in current folder
+    control f14 // show clipboard history
+
+    control f16 // help navigate to flux preferences
+    
+    control f18 // move window one space left
+    control f19 // move window one space right
+
 Bartender
     fn f11 // search menu bar items
     fn f10 // show (hidden) bartender items
