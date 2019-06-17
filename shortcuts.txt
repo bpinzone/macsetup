@@ -80,7 +80,7 @@ BetterTouchTools
     control f14 // show clipboard history
 
     control f16 // help navigate to flux preferences
-    
+
     control f18 // move window one space left
     control f19 // move window one space right
 
