@@ -71,8 +71,10 @@ BetterTouchTools
     TipTap Left (2 Finger Fix) -> command w
     Mouse Fwd Button // show menubar in context menu
 
-    f19 // remap to f10
     f13 // launch spotify
+    f14 // open notes folder in vs code
+    f15 // launch wunderlist
+    f19 // remap to f10
 
 Bartender
     fn f11 // search menu bar items
@@ -84,6 +86,7 @@ Native Brightness
 
 System Preferences
     Mission Control
+
         f18 // show notification center
 
         command option control w // toggle do not disturb
