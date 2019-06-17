@@ -71,17 +71,27 @@ BetterTouchTools
     TipTap Left (2 Finger Fix) -> command w
     Mouse Fwd Button // show menubar in context menu
 
+    f19 // remap to f10
+    f13 // launch spotify
+
 Bartender
     fn f11 // search menu bar items
-    fn f10 // show bartender items
+    fn f10 // show (hidden) bartender items
+
+Native Brightness
+    f16 // external monitor brightness down
+    f17 // external monitor brightness up
 
 System Preferences
     Mission Control
+        f18 // show notification center
+
         command option control w // toggle do not disturb
         command 1 // move left space
         command 2 // move right space
         command 3 // show desktop
-        command 5 // application windows (4 conflicts screenshot)
+        f5 // application windows (4 conflicts screenshot)
+
     Keyboard
         command ` // move focus to next window
         f7 // move focus to menu bar. (Shows it when you have it hidden by default.)
