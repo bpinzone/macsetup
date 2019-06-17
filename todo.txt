@@ -1,14 +1,6 @@
 Bash profile
-	modularize
-File watching
-	put command at end of bash profile. ./Starter.sh
-	Fix file wathcing scripts to be absolute paths.
-	fix everything about them
-	eventually make it into service on startup so you dont need bash profile
-	also there could have been internal errors I wasn't seeing, like the path stuff
 
 General
-learn vscode multi cursor + vim
 put git config into dotfiles repo
 add to windnow manager
 	istudiez, whatsapp,
@@ -18,6 +10,5 @@ dot files
 bash profile
 	Make common grep files accept multiple search strings
 	shortcut for regex refernces
-	Study bash aliases with args.
+	Study bash aliases and args
 get rid of (std out) in grep
-zsh?
