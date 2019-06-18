@@ -11,6 +11,7 @@ Menu Bar Apps
 
 Login Items
 	Magnet
+	discord
 	f.lux
 	iTunesHelper
 	Dropbox
