@@ -8,6 +8,7 @@ Menu Bar Apps
 	bitbar
 	# Momentum
 	tooth fairy (manage BT headphones)
+	Be Focused
 
 Login Items
 	Magnet
@@ -67,6 +68,7 @@ Utilities
 	Disk Inventory X
 	Logitech Unifying Software
 	The Unarchiver
+	Logitech Options
 
 Other Creativity
 	AudioXplorer FFT

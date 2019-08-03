@@ -2,14 +2,25 @@ ZSH Setup
 	vi bindings for command editing?
 
 General
+	learn zsh extension for spotify
+	Change bitbar to display number of free hours left in this month
+
+Setting Syncing
+	sync vscode. Maybe zsh stuff later.
+
 put git config into dotfiles repo
+
 add to windnow manager
 	istudiez, whatsapp,
+
 dot files
 	include git ignore global dot file
 	include ssh config in dot file repo???
+
 bash profile
 	Make common grep files accept multiple search strings
 	shortcut for regex refernces
 	Study bash aliases and args
+
 get rid of (std out) in grep
+

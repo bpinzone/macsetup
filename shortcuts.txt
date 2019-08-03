@@ -59,11 +59,11 @@ Magnet
     command option j|k|u|i|arrow // resize windows
 
 BetterTouchTools
-    fn f1  // Open iTerm
-    fn f2  // launch Unity Hub
-    fn f3  // Show menu bar in context menu. Shows menu bar like a right click. Great for large displays.
-    fn f8  // sleep computer
-    fn f12 // Center cursor on screen
+    f1  // Open iTerm
+    f2  // launch Unity Hub
+    f3  // Show menu bar in context menu. Shows menu bar like a right click. Great for large displays.
+    f8  // sleep computer
+    f12 // Center cursor on screen
     command \ // app switcher + invert colors.
     4 finger click // app switcher
     5 finger click // show menubar in context menu
@@ -71,9 +71,9 @@ BetterTouchTools
     TipTap Left (2 Finger Fix) -> command w
     Mouse Fwd Button // show menubar in context menu
 
-    f13 // launch spotify
-    f14 // open notes folder in vs code
-    f15 // launch wunderlist
+    f13 // mouse to external (to change space focus)
+    f14 // mouse to main (to change space focus)
+    f15 // Open notes folder in vscode
     f19 // remap to f10
 
     control f13 // create new file in current folder
@@ -85,8 +85,8 @@ BetterTouchTools
     control f19 // move window one space right
 
 Bartender
-    fn f11 // search menu bar items
-    fn f10 // show (hidden) bartender items
+    f11 // search menu bar items
+    f10 // show (hidden) bartender items
 
 Native Brightness
     f16 // external monitor brightness down
